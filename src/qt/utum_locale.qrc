@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/utum_bg.qm</file>
+        <file alias="de">locale/utum_de.qm</file>
+        <file alias="en">locale/utum_en.qm</file>
+        <file alias="es">locale/utum_es.qm</file>
+        <file alias="fi">locale/utum_fi.qm</file>
+        <file alias="fr">locale/utum_fr.qm</file>
+        <file alias="it">locale/utum_it.qm</file>
+        <file alias="ja">locale/utum_ja.qm</file>
+        <file alias="pl">locale/utum_pl.qm</file>
+        <file alias="pt">locale/utum_pt.qm</file>
+        <file alias="ru">locale/utum_ru.qm</file>
+        <file alias="sk">locale/utum_sk.qm</file>
+        <file alias="sv">locale/utum_sv.qm</file>
+        <file alias="vi">locale/utum_vi.qm</file>
+        <file alias="zh_CN">locale/utum_zh_CN.qm</file>
+        <file alias="zh_TW">locale/utum_zh_TW.qm</file>
+    </qresource>
+</RCC>

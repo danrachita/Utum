@@ -1,0 +1,26 @@
+# /etc/conf.d/utumd: config file for /etc/init.d/utumd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/utum/utum.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/utumd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/utumd.pid"
+
+# Where to write utumd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/utumd"
+
+# User and group to own utumd process
+#BITCOIND_USER="utum"
+#BITCOIND_GROUP="utum"
+
+# Path to utumd executable
+#BITCOIND_BIN="/usr/bin/utumd"
+
+# Nice value to run utumd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
